@@ -3,8 +3,8 @@ Robot documentation for the 2018 FLL Into Orbit.
 
 < I will be adding details on our programs and robot >
 
-< gCal >
-< gCal calibrates the gyro >
+< gCal 
+ gCal calibrates the gyro >
 
 < gForward >
 < gForward uses the gyro to move forward with higher accuracy >
